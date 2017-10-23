@@ -10,7 +10,6 @@
   "homepage": "https://github.com/MockinAeon/GoogleMap",
   "license": "ISC",
   "author": "",
-  "license": "ISC",
   "dependencies": {
     "express": "^4.15.3",
     "jquery": "^3.2.1",
